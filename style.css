@@ -1,0 +1,62 @@
+p {
+    color: orange;
+    width: 500px;
+    border: 1px solid rgb(255, 255, 255);
+    font-family: Times ;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35em
+  }
+  
+body {
+    background-color: rgb(250, 236, 211);
+}
+h1{
+    color: black;
+    width: 500px;
+    border: 5px solid rgb(68, 68, 68);
+    font-family: Times ;
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em;
+}
+ul {
+    width: 35%;
+    margin: auto;
+}
+img {
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  h2{
+    color: gray;
+    width: 500px;
+    border: 1px solid rgb(255, 255, 255);
+    font-family: Times ;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25em;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.Carreblanc{
+    border: 10px ridge black;
+    background-color: whitesmoke;
+    padding: .5rem;
+    width: 55em;
+}
+h3{
+    color: red;
+    width: 600px;
+    font-family: Times ;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bolder;
+    font-size: 25px;
+}
